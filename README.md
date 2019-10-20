@@ -1,13 +1,15 @@
+#Encrypt & Decript
+
 Simple python3 script which allows the user to encrypt a message and decrypt a message
 
-Usage:
+##Usage:
 
 clone or download, open file directory in terminal/command prompt and run:
 
 `$ python3 encryptDecrypt.py`
 
 
-Example:
+##Example:
 
 ```
 $ python3 encryptDecrypt.py
